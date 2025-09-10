@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # 🌾 Farm Connect – PHP E-Commerce for Fresh Farm Products
 
@@ -14,21 +14,10 @@
 
 ---
 
-## 📋 Table of Contents
-- [Overview](#-overview)  
-- [Live Demo](#-live-demo)  
-- [Core Features](#-core-features)  
-- [Why Farm Connect?](#-why-farm-connect)  
-- [Getting Started](#-getting-started)  
-- [Technologies](#-technologies)  
-- [Contributing](#-contributing)
-
----
-
 <table>
   <tr>
     <td valign="middle" width="200" align="center">
-      <img src="assets/img/logo/avatar-alt.png" alt="Farm Connect Logo" width="180" style="border-radius: 15px;"/>
+      <img src="assets/img/logo/avatar-alt.png" alt="Farm Connect Logo" width="180" style="border-radius: 50px;"/>
     </td>
     <td valign="top">
       <h2>🎯 Overview</h2>
