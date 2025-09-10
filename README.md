@@ -100,7 +100,7 @@
 
 ## 🌱 Why Farm Connect?  
 
-<div align="center">
+<div>
 
 Traditional markets rely on **intermediaries**, which often:  
 
